@@ -1,2 +1,0 @@
-# Regal
-Regal
